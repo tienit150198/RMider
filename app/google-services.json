@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579761164706",
+    "firebase_url": "https://rmider-413a4.firebaseio.com",
+    "project_id": "rmider-413a4",
+    "storage_bucket": "rmider-413a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579761164706:android:97fa5287cb9a2dfa7ba2fb",
+        "android_client_info": {
+          "package_name": "com.example.rmider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579761164706-98qbjp8g95icudocihusvn7sga9d7ips.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rmider",
+            "certificate_hash": "25068f80e7e0b8a96dc2bdf923652888f339449b"
+          }
+        },
+        {
+          "client_id": "579761164706-pb1l7nk6ad2gn1p1hap7cbtbrc4edjrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFImgsw3nADynrSytHmEaKthgFSs1iRXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579761164706-pb1l7nk6ad2gn1p1hap7cbtbrc4edjrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
