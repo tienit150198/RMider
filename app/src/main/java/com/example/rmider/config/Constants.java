@@ -20,4 +20,6 @@ public class Constants {
     public static final int TYPE_FUEL_INFORMATION = 10;
     public static final int TYPE_REPAIR_LOCATION = 11;
     public static final int TYPE_ASSISTANCE_HELP = 12;
+
+    public static final int REQUEST_ID_ACCESS_COURSE_FINE_LOCATION = 100;
 }

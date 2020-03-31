@@ -70,7 +70,7 @@ public class HouseActivity extends AppCompatActivity implements OnItemClickListe
                 startActivity(new Intent(this,InsurranceActivity.class));
                 break;
             case TYPE_DIARY:
-
+                startActivity(new Intent(this,RepairLocationActivity.class));
                 break;
             case TYPE_TRAFFIC_LAWS:
                 startActivity(new Intent(this,LawActivity.class));
@@ -79,7 +79,7 @@ public class HouseActivity extends AppCompatActivity implements OnItemClickListe
                 startActivity(new Intent(this,FuelActivity.class));
                 break;
             case TYPE_REPAIR_LOCATION:
-
+                startActivity(new Intent(this,RepairLocationActivity.class));
                 break;
             case TYPE_ASSISTANCE_HELP:
                 startActivity(new Intent(this,AssistanceActivity.class));
